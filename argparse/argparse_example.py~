@@ -1,0 +1,4 @@
+import argparse
+
+parser = argparse.ArgumentParser(desc='tool that does nothing')
+parser.argparse()
