@@ -1,3 +1,3 @@
 ### dotastro shits!
 
-We're gonna learn ALL THE THINGS
+We're gonna learn ALL THE THINGS!!!
